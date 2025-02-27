@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.container-box {
+  position: relative;
+}
+.container-box .arrow {
+  position: absolute;
+  top: 50%;
+  margin-top: -5px;
+}
+.container-box .arrow.arrow-left {
+  left: 12%;
+}
+.container-box .arrow.arrow-right {
+  right: 14%;
+}
