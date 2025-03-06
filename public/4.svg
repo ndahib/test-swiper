@@ -1,0 +1,42 @@
+<svg id="Groupe_1135" data-name="Groupe 1135" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="151.153" height="124.199" viewBox="0 0 151.153 124.199">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Tracé_2620" data-name="Tracé 2620" d="M0,37.423H151.152v-124.2H0Z" transform="translate(0 86.776)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_611" data-name="Rectangle 611" width="124.341" height="137.081" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Tracé_2619" data-name="Tracé 2619" d="M122.457,37.423H99.441V10.5H36.733V-6.872l50.808-79.9h24.666L63.05-7.74H99.441V-49.256h23.016V-7.74L135.311,4.072V10.5H122.457Z" transform="translate(-36.733 86.776)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-0.094" y1="0.398" x2="0.469" y2="0.398" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112e58"/>
+      <stop offset="0.1" stop-color="#18395c"/>
+      <stop offset="0.2" stop-color="#214560"/>
+      <stop offset="0.3" stop-color="#2a5263"/>
+      <stop offset="0.4" stop-color="#355f66"/>
+      <stop offset="0.5" stop-color="#406d68"/>
+      <stop offset="0.6" stop-color="#4b7b69"/>
+      <stop offset="0.7" stop-color="#578a6b"/>
+      <stop offset="0.8" stop-color="#64996c"/>
+      <stop offset="0.9" stop-color="#70a76c"/>
+      <stop offset="1" stop-color="#7bb46d"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_1133" data-name="Groupe 1133" transform="translate(0.001 0)" clip-path="url(#clip-path)">
+    <g id="Groupe_1132" data-name="Groupe 1132" transform="translate(39.693 -11.45)" opacity="0.81">
+      <g id="Groupe_1131" data-name="Groupe 1131">
+        <g id="Groupe_1130" data-name="Groupe 1130" clip-path="url(#clip-path-2)">
+          <g id="Groupe_1129" data-name="Groupe 1129" transform="translate(12.881 11.45)" clip-path="url(#clip-path-3)">
+            <g id="Groupe_1128" data-name="Groupe 1128" transform="translate(82.394 170.936) rotate(-160.9)">
+              <path id="Tracé_2618" data-name="Tracé 2618" d="M183.472,117.362,40.64,166.822,0,49.46,142.831,0Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Groupe_1134" data-name="Groupe 1134" transform="translate(0 44.179)">
+    <path id="Tracé_2621" data-name="Tracé 2621" d="M9.2,0,6.649,9.99H-2.792L-.294.125h-4.5l-2.5,9.866H-17.578l-.749,3.847H-8.312l-2.223,9.441h-10.04l-.75,3.846h9.791l-2.223,8.718h4.5l2.247-8.718H2.428L.18,35.842h4.5l2.247-8.718H17.213l.749-3.846H7.947l2.223-9.441H20.212L20.96,9.99H11.169L13.692,0ZM-3.766,13.837H5.649L3.4,23.278H-6.013Z" transform="translate(21.325)" fill="#7bb46d"/>
+  </g>
+</svg>

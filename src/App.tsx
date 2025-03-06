@@ -1,10 +1,7 @@
-import './App.css'
-import Jobs from './components/job-offers/job-offers'
-
+import "./App.css";
+import SolutionsSection from "./components/solutions/solutions-section";
 function App() {
-  return (
-    <Jobs/>
-  )
+  return <SolutionsSection />;
 }
 
-export default App
+export default App;

@@ -1,0 +1,42 @@
+<svg id="Groupe_1143" data-name="Groupe 1143" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138.158" height="128.389" viewBox="0 0 138.158 128.389">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Tracé_2624" data-name="Tracé 2624" d="M0,43.138H138.158V-85.251H0Z" transform="translate(0 85.251)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_612" data-name="Rectangle 612" width="111.668" height="141.943" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Tracé_2623" data-name="Tracé 2623" d="M35.59-79.939a128.758,128.758,0,0,1,37.188-5.312q47.369,0,47.372,34.531,0,20.9-16.647,28.778,16.647,7.527,16.647,28.777,0,36.3-47.372,36.3A128.759,128.759,0,0,1,35.59,37.826V16.575a111.731,111.731,0,0,0,37.188,6.2q23.907,0,23.906-18.595,0-15.937-17-15.938H48.871V-32.124H79.418q17.268,0,17.266-15.938,0-16.823-23.906-16.825a111.769,111.769,0,0,0-37.188,6.2Z" transform="translate(-35.59 85.251)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-0.123" y1="0.454" x2="0.298" y2="0.454" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#112e58"/>
+      <stop offset="0.1" stop-color="#18395c"/>
+      <stop offset="0.2" stop-color="#214560"/>
+      <stop offset="0.3" stop-color="#2a5263"/>
+      <stop offset="0.4" stop-color="#355f66"/>
+      <stop offset="0.5" stop-color="#406d68"/>
+      <stop offset="0.6" stop-color="#4b7b69"/>
+      <stop offset="0.7" stop-color="#578a6b"/>
+      <stop offset="0.8" stop-color="#64996c"/>
+      <stop offset="0.9" stop-color="#70a76c"/>
+      <stop offset="1" stop-color="#7bb46d"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_1141" data-name="Groupe 1141" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <g id="Groupe_1140" data-name="Groupe 1140" transform="translate(40.044 -12.048)" opacity="0.81">
+      <g id="Groupe_1139" data-name="Groupe 1139">
+        <g id="Groupe_1138" data-name="Groupe 1138" clip-path="url(#clip-path-2)">
+          <g id="Groupe_1137" data-name="Groupe 1137" transform="translate(13.555 12.048)" clip-path="url(#clip-path-3)">
+            <g id="Groupe_1136" data-name="Groupe 1136" transform="matrix(-0.836, -0.549, 0.549, -0.836, 42.915, 191.786)">
+              <path id="Tracé_2622" data-name="Tracé 2622" d="M185.962,107.308,70.488,183.16,0,75.852,115.474,0Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Groupe_1142" data-name="Groupe 1142" transform="translate(0.001 45.924)">
+    <path id="Tracé_2625" data-name="Tracé 2625" d="M10.454,0l-2.6,10.185H-1.767L.778.128H-3.8L-6.35,10.185H-16.841l-.765,3.922H-7.4l-2.267,9.625H-19.9l-.762,3.922h9.98l-2.267,8.885h4.583l2.292-8.885H3.554L1.261,36.539H5.846l2.292-8.885H18.627l.765-3.922H9.182l2.267-9.625H21.683l.764-3.922h-9.98L15.037,0ZM-2.761,14.107h9.6L4.548,23.732h-9.6Z" transform="translate(20.66)" fill="#7bb46d"/>
+  </g>
+</svg>
