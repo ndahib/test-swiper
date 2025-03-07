@@ -27,29 +27,29 @@ const solutions = [
 
 export default function SolutionsSection() {
   return (
-    <div className="bg-[url('../../public/girl.png')] h-150 w-lvw">
-      <div className="ml-40 p-8">
-        <div className="w-1/12 h-2 bg-[#8CAF63]"></div>
-        <h1 className="text-5xl text-left f text-[#1C264E] font-bold">
+    <div className="bg-[url('../../public/girl.png')] bg-cover bg-center h-full w-full">
+      <div className="m-10 p-12">
+        <div className="w-20 h-1.5 bg-[#8CAF63]"></div>
+        <h1 className="text-left f text-[#1C264E] font-bold text-2xl sm:text-4xl lg:text-6xl">
           VOUS CHERCHEZ, NOUS TROUVONS !
         </h1>
       </div>
       <div
-        className="w-5xl grid border-t-13 border-[linear-to-r from-[#12193E] to-[#8BAF63]
-        gap-4 sm:grid-cols-1 lg:grid-cols-2 bg-white/30 backdrop-blur-sm ml-40 shadow-xl h-90 mt-9"
+        className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 md:grid-cols-2 gap-10 border-t-13 border-[#8CAF63]
+           shadow-xl p-6 mx-20 content-center bg-gradient-to-r from-white to-[rgba(255,255,255,0.2)] min-w-75"
       >
         {solutions.map((solution) => (
-          <div className="flex items-center">
+          <div className="flex items-center p-4">
             <img
               src={solution.image}
               alt="solution"
-              className="pr-2 w-1/5 h-2/4"
+              className="pr-4 w-24 h-24"
             />
             <div className="flex flex-col">
               <h3 className="text-xl font-semibold text-[#1C264E]">
                 {solution.title}
               </h3>
-              <p className="text-[#1C264E] font-normal w-50">
+              <p className="text-[#1C264E] font-normal">
                 {solution.description}
               </p>
             </div>
